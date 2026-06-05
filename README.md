@@ -1,6 +1,6 @@
 # What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2605.12549)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2605.12549)
 
 
 ## Installation

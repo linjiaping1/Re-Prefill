@@ -1,6 +1,6 @@
 # What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2605.12549)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.12549-red)](https://arxiv.org/abs/2605.12549)
 
 
 ## Installation
@@ -50,7 +50,6 @@ hf download Tongyi-MAI/MAI-UI-8B
 Before running the evaluation scripts, please configure the project root directory and dataset paths in [utils.py](./utils.py).
 ```bash
 ./eval_8b.sh
-
 ./eval_32b.sh
 ```
 
